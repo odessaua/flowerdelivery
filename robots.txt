@@ -1,0 +1,44 @@
+User-agent: *
+Disallow: /.git/
+Disallow: /framework/
+Disallow: /nbproject/
+Disallow: */cart
+Disallow: *?q=*
+Disallow: */sort/*
+Disallow: *min_price*
+Disallow: /users/remind
+Disallow: /users/register
+Disallow: *check=*
+Disallow: */per_page/*
+Allow: *.css
+Allow: *.js
+Allow: *.jpg
+Allow: *.png
+Disallow: *sort*
+Disallow: *page*
+Disallow: /page/garanty.html
+
+
+User-agent: Yandex
+Disallow: /.git/
+Disallow: /framework/
+Disallow: /nbproject/
+Disallow: */cart
+Disallow: *?q=*
+Disallow: */sort/*
+Disallow: *min_price*
+Disallow: /users/remind
+Disallow: /users/register
+Disallow: *check=*
+Disallow: */per_page/*
+Allow: *.css
+Allow: *.js
+Allow: *.jpg
+Allow: *.png
+Disallow: *sort*
+Disallow: *page*
+Disallow: /page/garanty.html
+
+
+Host: https://www.7roses.com/
+Sitemap: https://www.7roses.com/sitemap.xml
